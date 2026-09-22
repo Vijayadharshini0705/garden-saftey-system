@@ -21,7 +21,7 @@ Use an ultrasonic distance sensor to detect an approaching person or animal. Whe
   ## Circuit diagram
 
 ![][image1]
-
+![image1](Circuit3.jpg)
 ## 4\. Working
 
        Person /  Animal  
@@ -106,7 +106,7 @@ void loop()
 
 ## Result
 
-![][image2]
+![image2](Result3.jpg)
 
 ## 8.conclusion
 
